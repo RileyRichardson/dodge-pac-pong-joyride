@@ -12,7 +12,7 @@ screen_height = 1080
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Pac-Man")
 
-# Colors
+# Colors 
 WHITE = (255, 255, 255)
 YELLOW = (255, 255, 0)
 BLUE = (0, 0, 255)
