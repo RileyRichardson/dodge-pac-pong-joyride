@@ -4,7 +4,7 @@ import time
 import math
 
 # Initialize pygame
-pygame.init()
+pygame.init() 
 
 # Set up the screen
 screen_width = 1920
